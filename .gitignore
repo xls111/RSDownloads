@@ -169,3 +169,31 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+**/*/build
+**/*/dist
+**/*/docs
+
+# backup files
+*~
+*.bak
+
+# Python's precompiled files
+*.pyc
+*.pyo
+
+# Setuptools/Distribute's files
+*.egg-info
+/dist
+/build
+
+# Sphinx's builds
+/docs/build
+
+# Visual Studio Code
+.vscode/
+
+*.png
+*.ico
+
+/data
