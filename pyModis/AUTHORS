@@ -1,0 +1,28 @@
+pyModis List of Authors
+===========================
+
+- Luca Delucchi Main Developer
+- Ingmar Nitze
+- Xavier Corredor Llano
+- Martin Landa
+- Anton Petrov
+
+Thanks to
+Anne Ghisla for help in code writing
+Markus Neteler and Markus Metz for testing
+Stefano Cavallari for bug fix
+Logan Byers for commenting
+Anton Petrov for token support
+
+Full list of contributors at https://github.com/lucadelu/pyModis/graphs/contributors
+
+Contact:
+
+ pyModis Development Team
+ c/o Luca Delucchi
+ Fondazione Edmund Mach (FEM)
+ IASMA Research and Innovation Centre
+ 38010 S. Michele all'Adige (Trento), Italy
+ luca.delucchi AT fmach.it
+
+Internet:  http://pymodis.org
